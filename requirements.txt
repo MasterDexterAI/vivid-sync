@@ -1,0 +1,12 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+websockets>=14
+python-dotenv>=1.0
+numpy>=1.26
+scipy>=1.13
+onnxruntime>=1.18
+opencv-python>=4.10
+mss>=9.0
+sounddevice>=0.5
+PySide6>=6.7
+pyobjc-framework-Cocoa>=10.3; sys_platform == "darwin"
